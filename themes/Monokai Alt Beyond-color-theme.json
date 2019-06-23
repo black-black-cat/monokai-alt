@@ -310,11 +310,7 @@
 		{
 			"name": "HTML tags",
 			"scope": [
-				"entity.name.tag.js",
-				"entity.name.tag.inline.any.html",
-				"entity.name.tag.block.any.html",
-				"entity.name.tag.structure.any.html",
-				"entity.name.tag.jade"
+				"entity.name.tag"
 			],
 			"settings": {
 				"foreground": "#66D9EF"
