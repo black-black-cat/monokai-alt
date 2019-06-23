@@ -1,13 +1,13 @@
 {
-    "name": "monokai-alt",
-    "displayName": "Monokai Alt Beyond",
-    "description": "",
-    "version": "0.0.1",
-    "publisher":"blackblackcat",
-    "engines": {
-        "vscode": "^1.35.0"
-    },
-    "repository": {
+	"name": "monokai-alt",
+	"displayName": "Monokai Alt Beyond",
+	"description": "",
+	"version": "0.1.0",
+	"publisher": "blackblackcat",
+	"engines": {
+		"vscode": "^1.35.0"
+	},
+	"repository": {
 		"type": "git",
 		"url": "https://github.com/black-black-cat/monokai-alt.git"
 	},
@@ -20,16 +20,22 @@
 		"Dark",
 		"Monokai"
 	],
-    "categories": [
-        "Themes"
+	"categories": [
+		"Themes"
     ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Monokai Alt Beyond",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Monokai Alt Beyond-color-theme.json"
-            }
-        ]
-    }
+    "icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai Alt Beyond",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai Alt Beyond-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "c0394ecd-d4da-4b65-8d74-6a8facefd501",
+		"publisherDisplayName": "black_black_cat",
+		"publisherId": "854ab203-32a1-41b6-8b5f-84cefb5b0813"
+	}
 }
