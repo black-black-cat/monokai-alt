@@ -5,3 +5,7 @@ This theme is based on benjaminBlonde's [Monokai-alt](https://github.com/sarcada
 
 ## Install
 Search for 'Monokai Alt Beyond' in the vscode extension searchbar. Once installed, relaunch vscode then open the command palette (`ctrl/Command + Shift + p`) then type 'color theme', then choose 'Monokai Alt Beyond'.
+
+## Screenshots
+
+![main](https://github.com/sarcadass/vscode-monokai-alt/raw/master/./screenshots/main.png)

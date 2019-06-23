@@ -3,9 +3,23 @@
     "displayName": "Monokai Alt Beyond",
     "description": "",
     "version": "0.0.1",
+    "publisher":"blackblackcat",
     "engines": {
         "vscode": "^1.35.0"
     },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/black-black-cat/monokai-alt.git"
+	},
+	"bugs": {
+		"url": "https://github.com/black-black-cat/monokai-alt/issues"
+	},
+	"homepage": "https://github.com/black-black-cat/monokai-alt/blob/master/README.md",
+	"keywords": [
+		"Theme",
+		"Dark",
+		"Monokai"
+	],
     "categories": [
         "Themes"
     ],
