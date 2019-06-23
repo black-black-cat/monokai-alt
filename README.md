@@ -8,4 +8,4 @@ Search for 'Monokai Alt Beyond' in the vscode extension searchbar. Once installe
 
 ## Screenshots
 
-![main](https://github.com/black-black-cat/vscode-monokai-alt/raw/master/./screenshots/main.png)
+![main](https://github.com/black-black-cat/monokai-alt/raw/master/./screenshots/main.png)
