@@ -184,7 +184,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#66D9EF"
+				"foreground": "#A6E22E"
 			}
 		},
 		{
@@ -260,14 +260,14 @@
 			"name": "Storage type",
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#66D9EF"
 			}
 		},
 		{
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#AE81FF"
 			}
 		},
 		{
@@ -296,17 +296,23 @@
 			}
 		},
 		{
-			"name": "punctuation",
-			"scope": [
-				"punctuation.accessor",
-				"punctuation.separator.comma",
-				"meta.brace.round",
-				"punctuation.definition.block"
-			],
+			"scope": ["punctuation.definition.template-expression"],
 			"settings": {
-				"foreground": "#F8F8F2"
+				"foreground": "#F92672"
 			}
 		},
+		// {
+		// 	"name": "punctuation",
+		// 	"scope": [
+		// 		"punctuation.accessor",
+		// 		"punctuation.separator.comma",
+		// 		"meta.brace.round",
+		// 		"punctuation.definition.block"
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#F8F8F2"
+		// 	}
+		// },
 		{
 			"name": "HTML tags",
 			"scope": [

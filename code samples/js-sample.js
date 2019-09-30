@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import utils from './utils';
 import config from './config';
+
+const temp = `123${window.location.origin + '?ans=123'}`
 /**
  * Constructor for sample code
  * @param {string} url - The URL to request
