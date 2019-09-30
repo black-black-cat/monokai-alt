@@ -404,16 +404,6 @@
 			}
 		},
 		{
-			"name": "StyleSheet Property value 2",
-			"scope": [
-				"support.constant.property-value",
-				"meta.property-value.css"
-			],
-			"settings": {
-				"foreground": "#6fee4c"
-			}
-		},
-		{
 			"name": "StyleSheet Punctuation",
 			"scope": [
 				"punctuation.separator.list.comma.css",
