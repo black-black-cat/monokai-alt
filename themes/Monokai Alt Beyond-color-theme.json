@@ -222,13 +222,6 @@
 			}
 		},
 		{
-			"name": "Function call",
-			"scope": "entity.name.function-call",
-			"settings": {
-				"foreground": "#F8F8F2"
-			}
-		},
-		{
 			"name": "Builtin Functions",
 			"scope": [
 				"function.support.builtin",
@@ -271,16 +264,6 @@
 			}
 		},
 		{
-			"name": "TemplateString and spread",
-			"scope": [
-				"meta.template.expression.js",
-				"keyword.operator.spread"
-			],
-			"settings": {
-				"foreground": "#F8F8F2"
-			}
-		},
-		{
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
@@ -296,23 +279,21 @@
 			}
 		},
 		{
+			"name": "TemplateString and spread",
+			"scope": [
+				"meta.template.expression",
+				"keyword.operator.spread"
+			],
+			"settings": {
+				"foreground": "#F8F8F2"
+			}
+		},
+		{
 			"scope": ["punctuation.definition.template-expression"],
 			"settings": {
 				"foreground": "#F92672"
 			}
 		},
-		// {
-		// 	"name": "punctuation",
-		// 	"scope": [
-		// 		"punctuation.accessor",
-		// 		"punctuation.separator.comma",
-		// 		"meta.brace.round",
-		// 		"punctuation.definition.block"
-		// 	],
-		// 	"settings": {
-		// 		"foreground": "#F8F8F2"
-		// 	}
-		// },
 		{
 			"name": "HTML tags",
 			"scope": [
