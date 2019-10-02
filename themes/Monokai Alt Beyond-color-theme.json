@@ -279,7 +279,7 @@
 			}
 		},
 		{
-			"name": "TemplateString and spread",
+			"name": "Template string and spread",
 			"scope": [
 				"meta.template.expression",
 				"keyword.operator.spread"
@@ -289,6 +289,7 @@
 			}
 		},
 		{
+			"name": "Interpolation begin and end punctuation",
 			"scope": ["punctuation.definition.template-expression"],
 			"settings": {
 				"foreground": "#F92672"

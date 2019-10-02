@@ -10,7 +10,7 @@ const temp = `123${window.location.origin + '?ans=123'}`
 function foo(bar) {
   switch(bar) {
     case 'foo':
-      return `values is: ${bar.length}`
+      return `values is: ${bar.length + '999'}`
   }
 }
 class Controls {/* ... */}
