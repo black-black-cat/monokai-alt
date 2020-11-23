@@ -23,7 +23,7 @@ export default class App extends Component {
     const state = typeof this.state !== undefined ? this.state : null;
     let canvasStyle = this.pixelRatio > 1 ? { width: `${wrapperWidth}px` } : {};
     let width = Math.floor(window.innerWidth);
-    var a = "\u1111\z\n".replace(/^\s*(.*)/, "$1");
+    var a = "\u1111\zword\n".replace(/^\s*(.*)/, "$1");
     let x = someArray.map(el => el * 2);
     return (
       <div className="main-wrapper" style={{ backgroundColor: config.colors }}>
